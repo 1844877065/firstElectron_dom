@@ -1,0 +1,23 @@
+{
+  "name": "firstelectron_dom",
+  "version": "1.0.0",
+  "description": "第一个Electron桌面应用",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1844877065/firstElectron_dom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1844877065/firstElectron_dom/issues"
+  },
+  "homepage": "https://github.com/1844877065/firstElectron_dom#readme",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  }
+}
